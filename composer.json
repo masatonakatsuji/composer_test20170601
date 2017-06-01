@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Nakatsuji\\": "src/"
+            "Nakatsuji": "src/"
         }
     },
     "license": "LGPL-2.1"
