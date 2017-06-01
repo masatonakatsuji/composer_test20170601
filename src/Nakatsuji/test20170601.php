@@ -3,7 +3,7 @@
 namespace Nakatsuji;
 
 
-class aaa{
+class aaaa{
 
 }
 ?>
