@@ -10,9 +10,6 @@
             "email": "nakatsuji@pull-neo.jp"
         }
     ],
-	"require": {
-	    "monolog/monolog": "1.0.*"
-	},
 	"autoload": {
 	    "psr-0": {
 	        "HelloWorld": "."
