@@ -1,0 +1,7 @@
+{
+    "name": "composer_test20170601/composer_test20170601",
+    "license": "Nakatsuji Masato.",
+    "require": {
+        "php": ">= 5.3.0"
+    }
+}
