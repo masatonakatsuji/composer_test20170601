@@ -1,5 +1,5 @@
 {
-    "name": "test20170601/test20170601",
+    "name": "pullnettest/test20170601",
     "type": "library",
     "description": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "homepage": "https://github.com/pullnet/composer_test20170601",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Nakatsuji": "src/"
+            "Nakatsuji\\pullnettest": "src/"
         }
     },
     "license": "LGPL-2.1"
